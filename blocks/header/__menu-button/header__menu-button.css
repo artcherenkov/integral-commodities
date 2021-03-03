@@ -1,0 +1,8 @@
+.header__menu-button {
+  width: 57px;
+  height: 18px;
+  padding: 0;
+  border: none;
+  background: url('../../../images/icon-menu.svg');
+  background-size: cover;
+}

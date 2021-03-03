@@ -1,5 +1,12 @@
 :root {
-  --grey: #545454;
+  --grey-default: #4f4f4f;
+  --p-blue: #02569c;
+  --p-orange-accent: #f88950;
+  --green: #0d8f93;
+  --hyper-link-default: #29baf0;
+  --font-non-active: #8d8d8d;
+  --tab: #f5f5f5;
+
   --grey70: rgba(84, 84, 84, .7);
   --font-montserrat: montserrat, arial, sans-serif;
 }
