@@ -7,6 +7,30 @@
 @import url('../blocks/root/__products/root__products.css');
 @import url('../blocks/root/__slogan/root__slogan.css');
 
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__address/footer__address.css');
+@import url('../blocks/footer/__card/footer__card.css');
+@import url('../blocks/footer/__card/_size/footer__card_size_double.css');
+@import url('../blocks/footer/__card-title/footer__card-title.css');
+@import url('../blocks/footer/__card-title/_type/footer__card-title_type_office.css');
+@import url('../blocks/footer/__container/footer__container.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/footer/__copyright-container/footer__copyright-container.css');
+@import url('../blocks/footer/__copyright-item/footer__copyright-item.css');
+@import url('../blocks/footer/__copyright-link/footer__copyright-link.css');
+@import url('../blocks/footer/__copyright-list/footer__copyright-list.css');
+@import url('../blocks/footer/__countries-list/footer__countries-list.css');
+@import url('../blocks/footer/__country-title/footer__country-title.css');
+@import url('../blocks/footer/__country/footer__country.css');
+@import url('../blocks/footer/__flag/footer__flag.css');
+@import url('../blocks/footer/__info/footer__info.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__links-list/footer__links-list.css');
+@import url('../blocks/footer/__list-item/footer__list-item.css');
+@import url('../blocks/footer/__logo-container/footer__logo-container.css');
+@import url('../blocks/footer/__office-title/footer__office-title.css');
+@import url('../blocks/footer/__representations/footer__representations.css');
+
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__menu-button/header__menu-button.css');
 @import url('../blocks/header/__wrapper/header__wrapper.css');
