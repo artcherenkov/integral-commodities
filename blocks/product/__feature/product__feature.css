@@ -1,0 +1,11 @@
+.product__feature {
+  font-family: var(--font-montserrat);
+  color: var(--grey-default);
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.product__feature:not(:last-child) {
+  margin-bottom: 20px;
+}

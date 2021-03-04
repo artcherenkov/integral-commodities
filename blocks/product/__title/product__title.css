@@ -1,0 +1,8 @@
+.product__title {
+  margin: 0 0 30px;
+  font-family: var(--font-montserrat);
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  color: var(--p-blue);
+}

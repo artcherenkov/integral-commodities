@@ -1,0 +1,7 @@
+.product__title-value {
+  font-family: var(--font-montserrat);
+  color: var(--p-blue);
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+}

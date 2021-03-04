@@ -1,0 +1,6 @@
+.product {
+  padding: 34px 7px 36px 20px;
+  border-top: 4px solid var(--p-blue);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.06);
+  border-radius: 3px 3px 0 0;
+}
