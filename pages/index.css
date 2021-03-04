@@ -4,6 +4,7 @@
 
 @import url('../blocks/root/root.css');
 @import url('../blocks/root/__header/root__header.css');
+@import url('../blocks/root/__products/root__products.css');
 @import url('../blocks/root/__slogan/root__slogan.css');
 
 @import url('../blocks/header/header.css');
@@ -12,5 +13,19 @@
 
 @import url('../blocks/logo/logo.css');
 @import url('../blocks/logo/_place/logo_place_footer.css');
+
+@import url('../blocks/products/products.css');
+@import url('../blocks/products/__filter/products__filter.css');
+@import url('../blocks/products/__filter-rollup/products__filter-rollup.css');
+@import url('../blocks/products/__filter-title/products__filter-title.css');
+@import url('../blocks/products/__filters/products__filters.css');
+@import url('../blocks/products/__search-form/products__search-form.css');
+@import url('../blocks/products/__search-input/products__search-input.css');
+@import url('../blocks/products/__search-label/products__search-label.css');
+@import url('../blocks/products/__search-submit/products__search-submit.css');
+@import url('../blocks/products/__tab/products__tab.css');
+@import url('../blocks/products/__tab-button/products__tab-button.css');
+@import url('../blocks/products/__tab-button/_active/products__tab-button_active.css');
+@import url('../blocks/products/__tabs/products__tabs.css');
 
 @import url('../blocks/slogan/slogan.css');

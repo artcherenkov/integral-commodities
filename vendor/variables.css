@@ -1,5 +1,7 @@
 :root {
+  --placeholder: #bdbdbd;
   --grey-default: #4f4f4f;
+  --grey: #333333;
   --p-blue: #02569c;
   --p-orange-accent: #f88950;
   --green: #0d8f93;
